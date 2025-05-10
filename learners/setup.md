@@ -1,54 +1,43 @@
 ---
-title: Setup
+title: "Setup"
+teaching: 5
+exercises: 0
 ---
 
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+Before the workshop begins, please complete the following setup steps to ensure you're ready to use Tableau Public.
 
-## Data Sets
+## Software
 
-<!--
-FIXME: place any data you want learners to use in `episodes/data` and then use
-       a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
-       link to it, replacing the example.com link.
--->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
+We will use **Tableau Public**, a free desktop app for creating and publishing data visualizations.
 
-## Software Setup
+::: checklist
+- Visit [https://public.tableau.com/en-us/s/](https://public.tableau.com/en-us/s/)
+- Enter your email address, then click **Download the App**
+- Install the software following your operating system’s instructions
+- Launch Tableau Public
+:::
 
-::::::::::::::::::::::::::::::::::::::: discussion
+> 📌 You do **not** need Tableau Desktop or a license key for this lesson.
 
-### Details
+## Dataset
 
-Setup for different systems can be presented in dropdown menus via a `spoiler`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
+We will use a publicly available dataset from the City of Los Angeles.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::
+::: checklist
+- Visit [https://data.lacity.org/Public-Safety/Traffic-Collision-Data-from-2010-to-Present/d5tf-ez2w](https://data.lacity.org/Public-Safety/Traffic-Collision-Data-from-2010-to-Present/d5tf-ez2w)
+- Click **Export** (top-right menu), select **CSV**, and download
+- Save the file in a location that is easy to find
+:::
 
-:::::::::::::::: spoiler
+## Optional: Tableau Public Account
 
-### Windows
+To save and share your visualizations online:
 
-Use PuTTY
+::: checklist
+- Create a free Tableau Public account: [https://public.tableau.com/profile](https://public.tableau.com/profile)
+- Use this account when prompted to save your dashboard
+:::
 
-::::::::::::::::::::::::
+---
 
-:::::::::::::::: spoiler
-
-### MacOS
-
-Use Terminal.app
-
-::::::::::::::::::::::::
-
-
-:::::::::::::::: spoiler
-
-### Linux
-
-Use Terminal
-
-::::::::::::::::::::::::
-
+If you have trouble installing the software or downloading the data, ask a helper before the workshop begins.
