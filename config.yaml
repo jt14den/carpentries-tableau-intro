@@ -35,25 +35,25 @@ contact: 'tdennis@library.ucla.edu'
 # Navigation ------------------------------------------------
 
 # Order of episodes in your lesson
-episodes: 
-- introduction.md
-- exploring-data.md
-- creating-visualizations.md
-- adding-interactivity.md
-- building-dashboards.md
+episodes:
+- introduction.rmd
+- exploring-data.rmd
+- creating-visualizations.rmd
+- adding-interactivity.rmd
+- building-dashboards.rmd
 
 
 # Information for Learners
-learners: 
+learners:
 - setup.md
 
 # Information for Instructors
-instructors: 
+instructors:
 - instructor-notes.md
 
 # Learner Profiles
-profiles: 
-- learner-profile.md
+profiles:
+- learner-profiles.rmd
 
 # Customisation ---------------------------------------------
 # Add any custom settings below here

@@ -82,6 +82,7 @@ Use `Area Name` for Columns and `Number of Accidents` as the Measure.
 - Use `Number of Accidents` (COUNT of `DR Number`) on **Rows**.
 - Optionally add `Number of Accidents` to **Label** for better readability.
 :::
+
 :::
 
 ---

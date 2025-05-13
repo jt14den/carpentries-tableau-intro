@@ -28,6 +28,7 @@ A **dashboard** in Tableau is a canvas where you can combine multiple charts and
   - Example: `Line Chart`, `Histogram`, and `Map`.
 - Adjust layout by dragging edges or setting size to **Automatic**.
 - Label your sheets by double-clicking the tab name at the bottom.
+
 :::
 
 ## Adding Interactivity
