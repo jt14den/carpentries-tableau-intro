@@ -28,6 +28,7 @@ We can animate our line chart to show how accidents accumulate over time.
   - Click **Show History**
   - Set Marks to show history for **All**, and enable **Trails**
 - Click the **Play** button in the Pages card to animate.
+
 :::
 
 ::: callout
